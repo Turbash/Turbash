@@ -25,6 +25,7 @@ Here are some of my favorite repositories:
 - 📂 [CashMate](https://github.com/SarveshShahane/CashMate): A financial management tool built with TypeScript and JavaScript.
 - 📂 [Paste-App](https://github.com/Turbash/Paste-App): Sample paste text editor using JavaScript, CSS, and HTML.
 - 📂 [Translator-App](https://github.com/Turbash/Translator-App): A text translator app using APIs, built with JavaScript, CSS, and HTML.
+- 📂 [ISStow](https://github.com/alaotach/ISStow): A Python-based project for managing and visualizing space mission data.
 
 Check out more of my repositories [here](https://github.com/Turbash?tab=repositories).
 
