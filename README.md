@@ -39,8 +39,9 @@ Check out more of my repositories [here](https://github.com/Turbash?tab=reposito
 
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Turbash&show_icons=true&theme=radical)
--![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbash&theme=radical&show_icons=true&hide_border=true&layout=compact)
-)
+
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbash&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
 
 
 ## 🤝 Let's Collaborate
