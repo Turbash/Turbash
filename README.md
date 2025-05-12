@@ -38,7 +38,10 @@ Check out more of my repositories [here](https://github.com/Turbash?tab=reposito
 - **Twitter:** [@Rawatdeepi27862](https://x.com/Rawatdeepi27862?t=y1nICyG9dytc8z8fFUXaeQ&s=09)
 
 ## 📊 GitHub Stats
-![Turbash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turbash&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Turbash&show_icons=true&theme=vue-dark)
+![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbash&theme=radical&show_icons=true&hide_border=true&layout=compact)
+)
+
 
 ## 🤝 Let's Collaborate
 - Open to collaborating on web development projects.
