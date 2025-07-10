@@ -18,31 +18,39 @@ Welcome to my GitHub profile! Here's a little bit about me:
 - **Data Analysis:** Python, Pandas, NumPy, Plotly, Scikit-learn, Joblib
 - **Other Skills:** Responsive Design, API Integration
 
+## 📅 GitHub Journey
+- Joined GitHub in May 2024.
+- Actively building and maintaining 25 public repositories.
+- Committed to continuous learning and sharing knowledge with the developer community.
+
 ## 🌱 Currently Learning
 - Exploring advanced Next.js features and optimization techniques.
 - Enhancing my knowledge of backend architectures and cloud deployments.
 - Learning more about Machine Learning and Data Science to build intelligent systems.
 
-## 🛠️ Projects
-Here are some of my favorite repositories:
-- 📂 [CashMate](https://github.com/SarveshShahane/CashMate): A financial management tool built with TypeScript and JavaScript.
-- 📂 [Paste-App](https://github.com/Turbash/Paste-App): Sample paste text editor using JavaScript, CSS, and HTML.
-- 📂 [Translator-App](https://github.com/Turbash/Translator-App): A text translator app using APIs, built with JavaScript, CSS, and HTML.
-- 📂 [ISStow](https://github.com/alaotach/ISStow): A Python-based project for managing and visualizing space mission data.
-- 📂 [UFC Fight Predictor](https://github.com/Turbash/Ufc-Fight-Predictor): A machine learning application predicting UFC fight outcomes using fighter statistics and historical data.
+## 🛠️ Featured & Recent Projects
+Here are some of my favorite and most recently updated repositories:
+- 📦 [Portfolio-Website](https://github.com/Turbash/Portfolio-Website): My personal portfolio showcasing web development projects and skills (JavaScript, HTML, CSS).
+- 📦 [HolidayPlanner2.0](https://github.com/Turbash/HolidayPlanner2.0): A modern holiday planning app with a JavaScript and Python backend.
+- 📦 [GamifiedPortfolio](https://github.com/Turbash/GamifiedPortfolio): A gamified take on the developer portfolio concept, built primarily with JavaScript and CSS.
+- 📦 [CashMate](https://github.com/SarveshShahane/CashMate): A financial management tool built with TypeScript and JavaScript.
+- 📦 [Paste-App](https://github.com/Turbash/Paste-App): Sample paste text editor using JavaScript, CSS, and HTML.
+- 📦 [Translator-App](https://github.com/Turbash/Translator-App): A text translator app using APIs, built with JavaScript, CSS, and HTML.
+- 📦 [ISStow](https://github.com/alaotach/ISStow): A Python-based project for managing and visualizing space mission data.
+- 📦 [UFC Fight Predictor](https://github.com/Turbash/Ufc-Fight-Predictor): A machine learning application predicting UFC fight outcomes using fighter statistics and historical data.
 
 Check out more of my repositories [here](https://github.com/Turbash?tab=repositories).
 
 ## 🌐 Connect With Me
+- **Portfolio:** [portfolio-website-ten-black-33.vercel.app](https://portfolio-website-ten-black-33.vercel.app/)
 - **LinkedIn:** [Turbash Negi](https://www.linkedin.com/in/turbash-negi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - **Twitter:** [@Rawatdeepi27862](https://x.com/Rawatdeepi27862?t=y1nICyG9dytc8z8fFUXaeQ&s=09)
+- **Email:** turbas91_soe@jnu.ac.in
 
 ## 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Turbash&show_icons=true&theme=radical)
 
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbash&theme=radical&show_icons=true&hide_border=true&layout=compact)
-
-
 
 ## 🤝 Let's Collaborate
 - Open to collaborating on web development projects.
