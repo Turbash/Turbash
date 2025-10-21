@@ -48,7 +48,7 @@
 ### Languages
 <a href="https://github.com/Turbash">
 <div align="center">
-       <img src="https://skillicons.dev/icons?i=c,js,cpp,dart,java,python,kotlin,&perline=4" /> 
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,dart,java,python,rust,kotlin&perline=4" /> 
 </div>
 </a>
 
