@@ -1,61 +1,116 @@
-# Hi there, I'm Turbash 👋
+# Hi, I'm Turbash Negi
 
-Welcome to my GitHub profile! Here's a little bit about me:
+<pre>
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
+</pre>
 
-## 🚀 About Me
-- 🌟 Passionate Web Developer with a knack for building dynamic and responsive web applications.
-- 💻 Skilled in the MERN Stack (MongoDB, Express, React, Node.js).
-- 🎨 Adept at crafting beautiful and functional user interfaces with HTML, CSS, and JavaScript.
-- 🌐 Exploring and learning more about modern web development with **Next.js**.
-- 📊 Enthusiast in Machine Learning (ML) and Data Science (DS), applying them to solve real-world problems.
-- 📚 Always learning and staying updated with the latest web development tools and trends.
+## About Me:
 
-## 🔧 Technologies & Tools
-- **Frontend:** HTML, CSS, JavaScript, React, Next.js
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Tools:** Git, VSCode, Postman, Streamlit
-- **Data Analysis:** Python, Pandas, NumPy, Plotly, Scikit-learn, Joblib
-- **Other Skills:** Responsive Design, API Integration
 
-## 📅 GitHub Journey
-- Joined GitHub in May 2024.
-- Actively building and maintaining 25 public repositories.
-- Committed to continuous learning and sharing knowledge with the developer community.
+- Actively participating in Hackathlons.
+- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
+- I am also trying to get into competetive programming with codeforces.
+- Doing Bachelor of Technology from JNU, New Delhi, India (currently in 3rd semester).
+- Typing speed 70 WPM.
+- Full Stack developer.
+- I like watching and playing sports.
 
-## 🌱 Currently Learning
-- Exploring advanced Next.js features and optimization techniques.
-- Enhancing my knowledge of backend architectures and cloud deployments.
-- Learning more about Machine Learning and Data Science to build intelligent systems.
+## Skill Set:
 
-## 🛠️ Featured & Recent Projects
-Here are some of my favorite and most recently updated repositories:
-- 📦 [Portfolio-Website](https://github.com/Turbash/Portfolio-Website): My personal portfolio showcasing web development projects and skills (JavaScript, HTML, CSS).
-- 📦 [HolidayPlanner2.0](https://github.com/Turbash/HolidayPlanner2.0): A modern holiday planning app with a JavaScript and Python backend.
-- 📦 [GamifiedPortfolio](https://github.com/Turbash/GamifiedPortfolio): A gamified take on the developer portfolio concept, built primarily with JavaScript and CSS.
-- 📦 [CashMate](https://github.com/SarveshShahane/CashMate): A financial management tool built with TypeScript and JavaScript.
-- 📦 [Paste-App](https://github.com/Turbash/Paste-App): Sample paste text editor using JavaScript, CSS, and HTML.
-- 📦 [Translator-App](https://github.com/Turbash/Translator-App): A text translator app using APIs, built with JavaScript, CSS, and HTML.
-- 📦 [ISStow](https://github.com/alaotach/ISStow): A Python-based project for managing and visualizing space mission data.
-- 📦 [UFC Fight Predictor](https://github.com/Turbash/Ufc-Fight-Predictor): A machine learning application predicting UFC fight outcomes using fighter statistics and historical data.
+<table><tr><td valign="top" width="25%">
 
-Check out more of my repositories [here](https://github.com/Turbash?tab=repositories).
+### Frontend  
+<a href="https://github.com/Turbash">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,js&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
 
-## 🌐 Connect With Me
-- **Portfolio:** [portfolio-website-ten-black-33.vercel.app](https://portfolio-website-ten-black-33.vercel.app/)
-- **LinkedIn:** [Turbash Negi](https://www.linkedin.com/in/turbash-negi?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- **Twitter:** [@Rawatdeepi27862](https://x.com/Rawatdeepi27862?t=y1nICyG9dytc8z8fFUXaeQ&s=09)
-- **Email:** turbas91_soe@jnu.ac.in
+### Backend
+<a href="https://github.com/Turbash">
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=4" /> 
+</div>
+</a>
+ </td><td valign="top" width="25%">
 
-## 📊 GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Turbash&show_icons=true&theme=radical)
+### Languages
+<a href="https://github.com/Turbash">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=c,js,cpp,dart,java,python,kotlin,&perline=4" /> 
+</div>
+</a>
 
-![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Turbash&theme=radical&show_icons=true&hide_border=true&layout=compact)
+</td><td valign="top" width="25%">
+  
+### Others
+<a href="https://github.com/Turbash">
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=git,github,flutter,figma,vscode,vercel,discord,godot&perline=4" /> 
+</div>
+</a>
+</td>
+</tr></table>
 
-## 🤝 Let's Collaborate
-- Open to collaborating on web development projects.
-- Feel free to reach out to discuss ideas, projects, or just say hello!
 
----
+## Connect with me:
+<div align="center">
+    <a href="https://www.linkedin.com/in/turbash-negi/" target="_blank"><img src="https://img.shields.io/badge/-Turbash%20Negi-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+    <a target="_blank" href="mailto:negirawatdeepi@gmail.com"><img src="https://img.shields.io/badge/-negirawatdeepi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/turbash-negi/" target="_blank"><img src="https://img.shields.io/badge/-Turbash%20Negi-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
+</div>
 
-Thanks for visiting my profile! Have a great day! 😊
+ ## Github Stats:
+<p align="center">
+    <a href="https://github.com/Turbash">
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Turbash&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Turbash&langs_count=12&layout=compact&langs_count=8&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/Turbash">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Turbash&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
+  </a> 
+</p>
+
+
+ <p align="center">
+   <a href="https://github.com/Turbash"> 
+     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Turbash&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
+   </a>  
+ </p>
+
+<br>
+
+<div id="header" align="center">
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Turbash" alt="Turbash" /></a> </p>
+  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+</div>
+
+##
+
+<div align="center">
+  <a href="https://github.com/Turbash">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=dark">
+  </a>
+ </div>
+ 
+<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+
+
