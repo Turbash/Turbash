@@ -97,7 +97,7 @@
 
 <div id="header" align="center">
   
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Turbash&row=1&column=8&theme=onedark" alt="Turbash" /></a> </p>
+  <p align="center"> <a href="https://github.com/Turbash"><img src="https://github-profile-trophy.vercel.app/?username=Turbash&row=1&column=8&theme=onedark" alt="Turbash" /></a> </p>
   
 <p align="center"> <a href="https://x.com/Rawatdeepi27862" target="blank"><img src="https://img.shields.io/twitter/follow/Rawatdeepi27862?logo=x&style=for-the-badge" alt="" /></a> </p>
 
