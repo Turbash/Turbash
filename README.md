@@ -18,10 +18,9 @@
 
 
 - Actively participating in Hackathlons.
-- I am currently learning Data Structure And Algorithms in Cpp(I have solved 170 leet code problems till now).
+- I am currently learning Data Structure And Algorithms in Cpp(I have solved 230 leet code problems till now).
 - I am also trying to get into competetive programming with codeforces.
-- Doing Bachelor of Technology from JNU, New Delhi, India (currently in 3rd semester).
-- Typing speed 70 WPM.
+- Typing speed 75 WPM.
 - Full Stack developer.
 - I like watching and playing sports.
 
