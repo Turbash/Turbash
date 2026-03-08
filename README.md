@@ -65,9 +65,9 @@
 
 ## Connect with me:
 <div align="center">
-    <a target="_blank" href="mailto:negirawatdeepi@gmail.com"><img src="https://img.shields.io/badge/-negirawatdeepi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+    <a target="_blank" href="mailto:turbashnegi1@gmail.com"><img src="https://img.shields.io/badge/-negirawatdeepi@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
     <a href="https://leetcode.com/u/turbash_negi/" target="_blank"><img src="https://img.shields.io/badge/-Turbash%20Negi-FFA116?style=flat&logo=LeetCode&logoColor=white"/></a>
-  <a href="https://codeforces.com/profile/negirawatdeepi" target="_blank"><img src="https://img.shields.io/badge/-Turbash%20Negi-2b3442?style=flat&logo=CodeForces&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/turbash" target="_blank"><img src="https://img.shields.io/badge/-Turbash%20Negi-2b3442?style=flat&logo=CodeForces&logoColor=white"/></a>
 </div>
 
  ## Github Stats:
