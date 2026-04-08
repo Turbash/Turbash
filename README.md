@@ -71,37 +71,6 @@
   <a href="https://codeforces.com/profile/turbash" target="_blank"><img src="https://img.shields.io/badge/-Turbash%20Negi-2b3442?style=flat&logo=CodeForces&logoColor=white"/></a>
 </div>
 
- ## Github Stats:
-<p align="center">
-    <a href="https://github.com/Turbash">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Turbash&show_icons=true&theme=onedark&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turbash&langs_count=8&layout=compact&theme=onedark&hide_border=true" />
-    </a>
-</p>
-<!-- Activity Graph -->
-<p align="center">
-  <a href="https://github.com/Turbash">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=Turbash&bg_color=282c34&color=FDFD96&line=FDFD96&point=FFFFFF&area_color=79FE96&border_radius=24.5&title_color=FDFD96&border_radius=20px"/>
-  </a> 
-</p>
-
-
- <p align="center">
-   <a href="https://github.com/Turbash"> 
-     <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=Turbash&show_icons=true&locale=en&layout=demo&theme=Onedark&hide_border=true" /> 
-   </a>  
- </p>
-
-<br>
-
-<div id="header" align="center">
-  
-  <p align="center"> <a href="https://github.com/Turbash"><img src="https://github-profile-trophy.vercel.app/?username=Turbash&row=1&column=8&theme=onedark" alt="Turbash" /></a> </p>
-  
-<p align="center"> <a href="https://x.com/Rawatdeepi27862" target="blank"><img src="https://img.shields.io/twitter/follow/Rawatdeepi27862?logo=x&style=for-the-badge" alt="" /></a> </p>
-
-</div>
-
 ##
 
 <div align="center">
