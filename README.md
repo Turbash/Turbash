@@ -18,10 +18,10 @@
 
 
 - Actively participating in Hackathlons.
-- I am currently learning Data Structure And Algorithms in Cpp(I have solved 379 leet code problems till now).
+- I am currently learning Data Structure And Algorithms in Cpp(I have solved 450 leet code problems till now).
 - I rated currently 1844 on leetcode and 1385 on codeforces.
 - I am do competetive programming with codeforces.
-- Typing speed 80 WPM.
+- Typing speed 90 WPM.
 - Full Stack developer, linux, libraries, gammes.
 - I like watching and playing sports.
 
