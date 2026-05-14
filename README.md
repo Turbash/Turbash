@@ -26,6 +26,11 @@
 - I like watching and playing sports.
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF5540&background=00000000&center=true&vCenter=true&multiline=false&width=700&height=50&lines=Full-Stack+Developer+%7C+AI/ML+Enthusiast;Building+new+fun-projects;HackJNU4.0+AI+Track+Winner;National+Space+Hackathlon+Top+10" />
+</p>
+
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=turbash&style=for-the-badge&color=ff5540&labelColor=0e0520&label=PROFILE+VIEWS" />
   &nbsp;
   <img src="https://img.shields.io/github/followers/turbash?style=for-the-badge&color=ff5540&labelColor=0e0520&label=FOLLOWERS" />
