@@ -25,6 +25,14 @@
 - Full Stack developer, linux, libraries, gammes.
 - I like watching and playing sports.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=turbash&style=for-the-badge&color=ff5540&labelColor=0e0520&label=PROFILE+VIEWS" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/turbash?style=for-the-badge&color=ff5540&labelColor=0e0520&label=FOLLOWERS" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/OPEN%20TO%20WORK-brightgreen?style=for-the-badge&labelColor=0e0520" />
+</p>
+
 ## Skill Set:
 
 <table><tr><td valign="top" width="25%">
